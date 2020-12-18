@@ -12,6 +12,7 @@ namespace ConsoleApplication2
         {
             Console.WriteLine("GitHubFromTest");//new
             Console.WriteLine("GitHub");//new 2
+            Console.WriteLine("GitHubtrue");
         }
     }
 }
